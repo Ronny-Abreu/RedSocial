@@ -1,0 +1,122 @@
+[
+{
+"usuario_id": "67dd7de381d9a2923af0407d",
+"contenido": "Mi primer post en la red!",
+"compartidos": 2,
+"privacidad": "público"
+},
+{
+"usuario_id": "67dd7de381d9a2923af0407e",
+"contenido": "Hermosa vista desde la montaña!",
+"compartidos": 5,
+"privacidad": "público"
+},
+{
+"usuario_id": "67dd7de381d9a2923af0407f",
+"contenido": "Recomendaciones de películas?",
+"compartidos": 1,
+"privacidad": "privado"
+},
+{
+"usuario_id": "67dd7de381d9a2923af04080",
+"contenido": "Nuevo libro favorito!",
+"compartidos": 0,
+"privacidad": "público"
+},
+{
+"usuario_id": "67dd7de381d9a2923af04081",
+"contenido": "Fotos de mi último viaje.",
+"compartidos": 3,
+"privacidad": "Mejores Amigos"
+},
+{
+"usuario_id": "67dd7de381d9a2923af04082",
+"contenido": "Iniciando en el mundo de la programación!",
+"compartidos": 10,
+"privacidad": "Mejores Amigos"
+},
+{
+"usuario_id": "67dd7de381d9a2923af04083",
+"contenido": "¿Alguien más ama los videojuegos retro?",
+"compartidos": 7,
+"privacidad": "Mejores Amigos"
+},
+{
+"usuario_id": "67dd7de381d9a2923af04084",
+"contenido": "Consejos para cuidar a un cachorro?",
+"compartidos": 4,
+"privacidad": "privado"
+},
+{
+"usuario_id": "67dd7de381d9a2923af04085",
+"contenido": "Mañana haré mi primera maratón!",
+"compartidos": 3,
+"privacidad": "público"
+},
+{
+"usuario_id": "67dd7de381d9a2923af04086",
+"contenido": "Receta de brownies deliciosos.",
+"compartidos": 8,
+"privacidad": "público"
+},
+{
+"usuario_id": "67dd7de381d9a2923af04087",
+"contenido": "Descubrí un nuevo planeta en el telescopio!",
+"compartidos": 5,
+"privacidad": "Mejores Amigos"
+},
+{
+"usuario_id": "67dd7de381d9a2923af04088",
+"contenido": "Practicando yoga todas las mañanas!",
+"compartidos": 3,
+"privacidad": "público"
+},
+{
+"usuario_id": "67dd7de381d9a2923af04089",
+"contenido": "Aprendiendo alemán! Es difícil pero emocionante.",
+"compartidos": 2,
+"privacidad": "público"
+},
+{
+"usuario_id": "67dd7de381d9a2923af0408a",
+"contenido": "Jugué mi mejor partida de ajedrez hoy!",
+"compartidos": 1,
+"privacidad": "privado"
+},
+{
+"usuario_id": "67dd7de381d9a2923af0408b",
+"contenido": "Nuevo outfit para la fiesta.",
+"compartidos": 6,
+"privacidad": "público"
+},
+{
+"usuario_id": "67dd7de381d9a2923af0408c",
+"contenido": "Concierto increíble anoche!",
+"compartidos": 9,
+"privacidad": "público"
+},
+{
+"usuario_id": "67dd7de381d9a2923af0408d",
+"contenido": "Probando nuevas funciones en Python.",
+"compartidos": 4,
+"privacidad": "público"
+},
+{
+"usuario_id": "67dd7de381d9a2923af0408e",
+"contenido": "Buscando recomendaciones de libros.",
+"compartidos": 3,
+"privacidad": "público"
+},
+{
+"usuario_id": "67dd7de381d9a2923af0408f",
+"contenido": "Primera vez que toco la guitarra en público!",
+"compartidos": 7,
+"privacidad": "público"
+},
+{
+"usuario_id": "67dd7de381d9a2923af04090",
+"contenido": "Hoy terminé mi primer cuento corto.",
+"compartidos": 10,
+"privacidad": "privado"
+}
+]
