@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronny\\OneDrive\\Documents\\ITLA\\4C\\BASES DE DATOS AVANZADA\\PROYECTO FINAL\\BASE DE DATOS NO RELACIONAL\\GeneradorJsonUsuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F95B98-E13A-43AE-9083-0C176DC81061}|GeneradorJsonUsuarios.csproj|c:\\users\\ronny\\onedrive\\documents\\itla\\4c\\bases de datos avanzada\\proyecto final\\base de datos no relacional\\generadorjsonusuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F95B98-E13A-43AE-9083-0C176DC81061}|GeneradorJsonUsuarios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ronny\\OneDrive\\Documents\\ITLA\\4C\\BASES DE DATOS AVANZADA\\PROYECTO FINAL\\BASE DE DATOS NO RELACIONAL\\GeneradorJsonUsuarios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ronny\\OneDrive\\Documents\\ITLA\\4C\\BASES DE DATOS AVANZADA\\PROYECTO FINAL\\BASE DE DATOS NO RELACIONAL\\GeneradorJsonUsuarios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:51:12.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

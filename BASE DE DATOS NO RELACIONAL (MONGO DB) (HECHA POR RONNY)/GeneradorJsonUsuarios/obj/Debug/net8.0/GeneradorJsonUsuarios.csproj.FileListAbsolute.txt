@@ -1,0 +1,17 @@
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\obj\Debug\net8.0\GeneradorJsonUsuarios.csproj.AssemblyReference.cache
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\obj\Debug\net8.0\GeneradorJsonUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\obj\Debug\net8.0\GeneradorJsonUsuarios.AssemblyInfoInputs.cache
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\obj\Debug\net8.0\GeneradorJsonUsuarios.AssemblyInfo.cs
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\obj\Debug\net8.0\GeneradorJsonUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\bin\Debug\net8.0\GeneradorJsonUsuarios.exe
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\bin\Debug\net8.0\GeneradorJsonUsuarios.deps.json
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\bin\Debug\net8.0\GeneradorJsonUsuarios.runtimeconfig.json
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\bin\Debug\net8.0\GeneradorJsonUsuarios.dll
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\bin\Debug\net8.0\GeneradorJsonUsuarios.pdb
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\obj\Debug\net8.0\Generado.5C78C959.Up2Date
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\obj\Debug\net8.0\GeneradorJsonUsuarios.dll
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\obj\Debug\net8.0\refint\GeneradorJsonUsuarios.dll
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\obj\Debug\net8.0\GeneradorJsonUsuarios.pdb
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\obj\Debug\net8.0\GeneradorJsonUsuarios.genruntimeconfig.cache
+C:\Users\ronny\OneDrive\Documents\ITLA\4C\BASES DE DATOS AVANZADA\PROYECTO FINAL\BASE DE DATOS NO RELACIONAL\GeneradorJsonUsuarios\obj\Debug\net8.0\ref\GeneradorJsonUsuarios.dll
