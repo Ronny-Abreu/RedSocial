@@ -1,0 +1,122 @@
+[
+{
+    "nombre": "Aventureros",
+    "descripcion": "Grupo para compartir experiencias de viaje.",
+    "privacidad": "público",
+    "creador_id": "67dd7de381d9a2923af0407d"
+},
+{
+    "nombre": "Lectores Nocturnos",
+    "descripcion": "Club de lectura para noctámbulos.",
+    "privacidad": "privado",
+    "creador_id": "67dd7de381d9a2923af0407e"
+},
+{
+    "nombre": "Techies",
+    "descripcion": "Espacio para discutir sobre tecnología y gadgets.",
+    "privacidad": "público",
+    "creador_id": "67dd7de381d9a2923af0407f"
+},
+{
+    "nombre": "Cinefilia",
+    "descripcion": "Amantes del cine clásico y moderno.",
+    "privacidad": "privado",
+    "creador_id": "67dd7de381d9a2923af04080"
+},
+{
+    "nombre": "Cocina Creativa",
+    "descripcion": "Recetas y tips culinarios innovadores.",
+    "privacidad": "público",
+    "creador_id": "67dd7de381d9a2923af04081"
+},
+{
+    "nombre": "Músicos Unidos",
+    "descripcion": "Comunidad para músicos de todos los géneros.",
+    "privacidad": "privado",
+    "creador_id": "67dd7de381d9a2923af04082"
+},
+{
+    "nombre": "Deportistas Extremos",
+    "descripcion": "Para quienes buscan aventuras deportivas.",
+    "privacidad": "público",
+    "creador_id": "67dd7de381d9a2923af04083"
+},
+{
+    "nombre": "Fotografía Artística",
+    "descripcion": "Espacio para compartir y aprender fotografía.",
+    "privacidad": "privado",
+    "creador_id": "67dd7de381d9a2923af04084"
+},
+{
+    "nombre": "Viajeros del Mundo",
+    "descripcion": "Conexión para quienes aman explorar nuevos destinos.",
+    "privacidad": "público",
+    "creador_id": "67dd7de381d9a2923af04085"
+},
+{
+    "nombre": "Amigos de los Animales",
+    "descripcion": "Grupo dedicado al cuidado y bienestar animal.",
+    "privacidad": "privado",
+    "creador_id": "67dd7de381d9a2923af04086"
+},
+{
+    "nombre": "Cine Independiente",
+    "descripcion": "Debates y recomendaciones sobre cine independiente.",
+    "privacidad": "público",
+    "creador_id": "67dd7de381d9a2923af04087"
+},
+{
+    "nombre": "Gastronomía Global",
+    "descripcion": "Explorando sabores de todo el mundo.",
+    "privacidad": "privado",
+    "creador_id": "67dd7de381d9a2923af04088"
+},
+{
+    "nombre": "Innovadores Tecnológicos",
+    "descripcion": "Para discutir las últimas tendencias en tecnología.",
+    "privacidad": "público",
+    "creador_id": "67dd7de381d9a2923af04089"
+},
+{
+    "nombre": "Club de Poesía",
+    "descripcion": "Espacio para compartir y analizar poesía.",
+    "privacidad": "privado",
+    "creador_id": "67dd7de381d9a2923af0408a"
+},
+{
+    "nombre": "Aficionados al Vino",
+    "descripcion": "Catas y discusiones sobre vinos de diferentes regiones.",
+    "privacidad": "público",
+    "creador_id": "67dd7de381d9a2923af0408b"
+},
+{
+    "nombre": "Cultura Pop",
+    "descripcion": "Debates sobre series, películas y música popular.",
+    "privacidad": "privado",
+    "creador_id": "67dd7de381d9a2923af0408c"
+},
+{
+    "nombre": "Ecologistas Unidos",
+    "descripcion": "Iniciativas y discusiones sobre medio ambiente.",
+    "privacidad": "público",
+    "creador_id": "67dd7de381d9a2923af0408d"
+},
+{
+    "nombre": "Emprendedores Creativos",
+    "descripcion": "Red de apoyo para emprendedores innovadores.",
+    "privacidad": "privado",
+    "creador_id": "67dd7de381d9a2923af0408e"
+},
+{
+    "nombre": "Ciclismo Urbano",
+    "descripcion": "Para amantes del ciclismo en la ciudad.",
+    "privacidad": "público",
+    "creador_id": "67dd7de381d9a2923af0408f"
+},
+{
+    "nombre": "Astronomía para Todos",
+    "descripcion": "Explorando el universo y compartiendo descubrimientos.",
+    "privacidad": "privado",
+    "creador_id": "67dd7de381d9a2923af04090"
+}
+]
