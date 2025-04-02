@@ -1,0 +1,116 @@
+[
+    {
+        "usuario1_id": "67dd7de381d9a2923af0407d",
+        "usuario2_id": "67dd7de381d9a2923af0407e",
+        "estado": "aceptado",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af0407e",
+        "usuario2_id": "67dd7de381d9a2923af0407f",
+        "estado": "pendiente",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af0407f",
+        "usuario2_id": "67dd7de381d9a2923af04080",
+        "estado": "aceptado",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af04080",
+        "usuario2_id": "67dd7de381d9a2923af04081",
+        "estado": "bloqueado",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af04081",
+        "usuario2_id": "67dd7de381d9a2923af04082",
+        "estado": "pendiente",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af04082",
+        "usuario2_id": "67dd7de381d9a2923af04083",
+        "estado": "aceptado",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af04083",
+        "usuario2_id": "67dd7de381d9a2923af04084",
+        "estado": "pendiente",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af04084",
+        "usuario2_id": "67dd7de381d9a2923af04085",
+        "estado": "aceptado",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af04085",
+        "usuario2_id": "67dd7de381d9a2923af04086",
+        "estado": "pendiente",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af04086",
+        "usuario2_id": "67dd7de381d9a2923af04087",
+        "estado": "aceptado",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af04087",
+        "usuario2_id": "67dd7de381d9a2923af04088",
+        "estado": "pendiente",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af04088",
+        "usuario2_id": "67dd7de381d9a2923af04089",
+        "estado": "aceptado",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af04089",
+        "usuario2_id": "67dd7de381d9a2923af0408a",
+        "estado": "pendiente",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af0408a",
+        "usuario2_id": "67dd7de381d9a2923af0408b",
+        "estado": "aceptado",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af0408b",
+        "usuario2_id": "67dd7de381d9a2923af0408c",
+        "estado": "pendiente",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af0408c",
+        "usuario2_id": "67dd7de381d9a2923af0408d",
+        "estado": "aceptado",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af0408d",
+        "usuario2_id": "67dd7de381d9a2923af0408e",
+        "estado": "pendiente",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af0408e",
+        "usuario2_id": "67dd7de381d9a2923af0408f",
+        "estado": "aceptado",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    },
+    {
+        "usuario1_id": "67dd7de381d9a2923af0408f",
+        "usuario2_id": "67dd7de381d9a2923af04090",
+        "estado": "pendiente",
+        "fecha_solicitud": "2025-03-21T00:00:00Z"
+    }
+]
