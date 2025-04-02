@@ -1,0 +1,102 @@
+[
+    {
+        "remitente_id": "67dd7de381d9a2923af0408b",
+        "destinatario_id": "67dd7de381d9a2923af0408c",
+        "contenido": "Hola, ¿cómo estás?"
+    },
+    {
+        "remitente_id": "67dd7de381d9a2923af0408c",
+        "destinatario_id": "67dd7de381d9a2923af0408d",
+        "contenido": "¿Te gustaría salir este fin de semana?"
+    },
+    {
+        "remitente_id": "67dd7de381d9a2923af0408d",
+        "destinatario_id": "67dd7de381d9a2923af0408e",
+        "contenido": "Tengo novedades sobre el proyecto."
+    },
+    {
+        "remitente_id": "67dd7de381d9a2923af0408e",
+        "destinatario_id": "67dda31f81d9a2923af040ad",
+        "contenido": "¿Leíste el artículo que te recomendé?"
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040ad",
+        "destinatario_id": "67dd7de381d9a2923af04090",
+        "contenido": "¡Felicidades por tu logro!"
+    },
+    {
+        "remitente_id": "67dd7de381d9a2923af04090",
+        "destinatario_id": "67dda31f81d9a2923af040ae",
+        "contenido": "¿Cuándo nos vemos para la práctica?"
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040ae",
+        "destinatario_id": "67dda31f81d9a2923af040af",
+        "contenido": "Necesito tu opinión sobre este tema."
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040af",
+        "destinatario_id": "67dda31f81d9a2923af040b0",
+        "contenido": "¿Te unes al plan para el viernes?"
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040b0",
+        "destinatario_id": "67dda31f81d9a2923af040b1",
+        "contenido": "Reenvío el documento que solicitaste."
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040b1",
+        "destinatario_id": "67dda31f81d9a2923af040b2",
+        "contenido": "¿Confirmas tu asistencia al evento?"
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040b2",
+        "destinatario_id": "67dda31f81d9a2923af040b3",
+        "contenido": "Recordatorio de la reunión de mañana."
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040b3",
+        "destinatario_id": "67dda31f81d9a2923af040b4",
+        "contenido": "Gracias por tu ayuda en el proyecto."
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040b4",
+        "destinatario_id": "67dda31f81d9a2923af040b5",
+        "contenido": "¿Tienes disponibilidad para una llamada?"
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040b5",
+        "destinatario_id": "67dda31f81d9a2923af040b6",
+        "contenido": "Te envío las fotos del viaje."
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040b6",
+        "destinatario_id": "67dda31f81d9a2923af040b7",
+        "contenido": "¿Cómo va todo con el nuevo trabajo?"
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040b7",
+        "destinatario_id": "67dda31f81d9a2923af040b8",
+        "contenido": "Confirmado, nos vemos a las 6 PM."
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040b8",
+        "destinatario_id": "67dda31f81d9a2923af040b9",
+        "contenido": "Adjunto el informe que pediste."
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040b9",
+        "destinatario_id": "67dda31f81d9a2923af040ba",
+        "contenido": "¿Puedes revisar este documento?"
+    },
+    {
+        "remitente_id": "67dda31f81d9a2923af040ba",
+        "destinatario_id": "67dd7de381d9a2923af0408b",
+        "contenido": "Última oportunidad para registrarse."
+    },
+    {
+        "remitente_id": "67dd7de381d9a2923af0408b",
+        "destinatario_id": "67dd7de381d9a2923af0408c",
+        "contenido": "Fue un placer conocerte ayer."
+    }
+]
