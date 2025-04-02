@@ -1,0 +1,122 @@
+[
+    {
+        "usuario_id": "67dd7de381d9a2923af0407d",
+        "publicacion_id": "67dda31f81d9a2923af0409b",
+        "comentario_id": "67ddadb581d9a2923af040c6",
+        "tipo": "Me gusta"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0407e",
+        "publicacion_id": "67dda31f81d9a2923af0409c",
+        "comentario_id": "67ddadb581d9a2923af040c7",
+        "tipo": "Me encanta"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0407f",
+        "publicacion_id": "67dda31f81d9a2923af0409d",
+        "comentario_id": "67ddadb581d9a2923af040c8",
+        "tipo": "Me divierte"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04080",
+        "publicacion_id": "67dda31f81d9a2923af0409e",
+        "comentario_id": "67ddadb581d9a2923af040c9",
+        "tipo": "Me asombra"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04081",
+        "publicacion_id": "67dda31f81d9a2923af0409f",
+        "comentario_id": "67ddadb581d9a2923af040ca",
+        "tipo": "Me entristece"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04082",
+        "publicacion_id": "67dda31f81d9a2923af040a0",
+        "comentario_id": "67ddadb581d9a2923af040cb",
+        "tipo": "Me enoja"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04083",
+        "publicacion_id": "67dda31f81d9a2923af040a1",
+        "comentario_id": "67ddadb581d9a2923af040cc",
+        "tipo": "Me gusta"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04084",
+        "publicacion_id": "67dda31f81d9a2923af040a2",
+        "comentario_id": "67ddadb581d9a2923af040cd",
+        "tipo": "Me encanta"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04085",
+        "publicacion_id": "67dda31f81d9a2923af040a3",
+        "comentario_id": "67ddadb581d9a2923af040ce",
+        "tipo": "Me divierte"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04086",
+        "publicacion_id": "67dda31f81d9a2923af040a4",
+        "comentario_id": "67ddadb581d9a2923af040cf",
+        "tipo": "Me asombra"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04087",
+        "publicacion_id": "67dda31f81d9a2923af040a5",
+        "comentario_id": "67ddadb581d9a2923af040d0",
+        "tipo": "Me entristece"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04088",
+        "publicacion_id": "67dda31f81d9a2923af040a6",
+        "comentario_id": "67ddadb581d9a2923af040d1",
+        "tipo": "Me enoja"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04089",
+        "publicacion_id": "67dda31f81d9a2923af040a7",
+        "comentario_id": "67ddadb581d9a2923af040d2",
+        "tipo": "Me gusta"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0408a",
+        "publicacion_id": "67dda31f81d9a2923af040a8",
+        "comentario_id": "67ddadb581d9a2923af040d3",
+        "tipo": "Me encanta"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0408b",
+        "publicacion_id": "67dda31f81d9a2923af040a9",
+        "comentario_id": "67ddadb581d9a2923af040d4",
+        "tipo": "Me divierte"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0408c",
+        "publicacion_id": "67dda31f81d9a2923af040aa",
+        "comentario_id": "67ddadb581d9a2923af040d5",
+        "tipo": "Me asombra"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0408d",
+        "publicacion_id": "67dda31f81d9a2923af040ab",
+        "comentario_id": "67ddadb581d9a2923af040d6",
+        "tipo": "Me entristece"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0408e",
+        "publicacion_id": "67dda31f81d9a2923af040ac",
+        "comentario_id": "67ddadb581d9a2923af040d7",
+        "tipo": "Me enoja"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0408f",
+        "publicacion_id": "67dda31f81d9a2923af040ad",
+        "comentario_id": "67ddadb581d9a2923af040d8",
+        "tipo": "Me gusta"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04090",
+        "publicacion_id": "67dda31f81d9a2923af040ae",
+        "comentario_id": "67ddadb581d9a2923af040d9",
+        "tipo": "Me encanta"
+    }
+]
