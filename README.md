@@ -49,7 +49,7 @@ El proyecto incluye los siguientes componentes:
 
 1. Clonar el repositorio:
     ```bash
-    git clone https://github.com/usuario/proyecto-base-datos.git
+    git clone https://github.com/Ronny-Abreu/RedSocial.git
     ```
    
 2. Configurar MySQL, MongoDB y Redis en tu entorno local o servidor.
