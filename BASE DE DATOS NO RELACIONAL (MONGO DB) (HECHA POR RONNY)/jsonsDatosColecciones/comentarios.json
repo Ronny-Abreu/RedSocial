@@ -1,0 +1,102 @@
+[
+    {
+        "usuario_id": "67dd7de381d9a2923af0407d",
+        "publicacion_id": "67dda31f81d9a2923af0409b",
+        "contenido": "¡Qué emocionante tu primer post!"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0407e",
+        "publicacion_id": "67dda31f81d9a2923af0409c",
+        "contenido": "Esa vista es impresionante, ¿dónde es?"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0407f",
+        "publicacion_id": "67dda31f81d9a2923af0409d",
+        "contenido": "Totalmente de acuerdo, ¿alguna recomendación?"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04080",
+        "publicacion_id": "67dda31f81d9a2923af0409e",
+        "contenido": "Leí ese libro, es fascinante."
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04081",
+        "publicacion_id": "67dda31f81d9a2923af0409f",
+        "contenido": "¡Qué fotos tan increíbles de tu viaje!"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04082",
+        "publicacion_id": "67dda31f81d9a2923af040a0",
+        "contenido": "Bienvenido al mundo de la programación, es genial."
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04083",
+        "publicacion_id": "67dda31f81d9a2923af040a1",
+        "contenido": "Los videojuegos retro tienen un encanto especial."
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04084",
+        "publicacion_id": "67dda31f81d9a2923af040a2",
+        "contenido": "Los cachorros son adorables, ¿qué raza es?"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04085",
+        "publicacion_id": "67dda31f81d9a2923af040a3",
+        "contenido": "¡Mucho éxito en tu maratón!"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04086",
+        "publicacion_id": "67dda31f81d9a2923af040a4",
+        "contenido": "Definitivamente probaré esa receta, suena deliciosa."
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04087",
+        "publicacion_id": "67dda31f81d9a2923af040a5",
+        "contenido": "La astronomía es fascinante, ¿qué telescopio usas?"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04088",
+        "publicacion_id": "67dda31f81d9a2923af040a6",
+        "contenido": "El yoga ha cambiado mi vida, ¿qué estilo practicas?"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04089",
+        "publicacion_id": "67dda31f81d9a2923af040a7",
+        "contenido": "Aprender alemán es un reto, pero muy gratificante."
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0408a",
+        "publicacion_id": "67dda31f81d9a2923af040a8",
+        "contenido": "El ajedrez es un juego de estrategia increíble."
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0408b",
+        "publicacion_id": "67dda31f81d9a2923af040a9",
+        "contenido": "Ese conjunto es perfecto para la ocasión."
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0408c",
+        "publicacion_id": "67dda31f81d9a2923af040aa",
+        "contenido": "¿Dónde fue el concierto? Suena increíble."
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0408d",
+        "publicacion_id": "67dda31f81d9a2923af040ab",
+        "contenido": "Python es muy versátil, ¿qué proyectos tienes en mente?"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af0408e",
+        "publicacion_id": "67dda31f81d9a2923af040ac",
+        "contenido": "Te recomiendo 'Cien años de soledad', es un clásico."
+    },
+    {
+        "usuario_id": "67dda31f81d9a2923af040ad",
+        "publicacion_id": "67dd7de381d9a2923af0408f",
+        "contenido": "¡Qué valiente al tocar en público!"
+    },
+    {
+        "usuario_id": "67dd7de381d9a2923af04090",
+        "publicacion_id": "67dda31f81d9a2923af040ae",
+        "contenido": "Tu cuento corto me inspiró, gracias por compartirlo."
+    }
+]
