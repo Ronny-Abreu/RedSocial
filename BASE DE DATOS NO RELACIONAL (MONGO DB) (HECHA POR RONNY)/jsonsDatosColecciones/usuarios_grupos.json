@@ -1,0 +1,22 @@
+[
+    { "grupo_id": "67ddccef81d9a2923af04136", "usuario_id": "67dd7de381d9a2923af0407d", "rol": "admin" },
+    { "grupo_id": "67ddccef81d9a2923af04137", "usuario_id": "67dd7de381d9a2923af0407e", "rol": "miembro" },
+    { "grupo_id": "67ddccef81d9a2923af04138", "usuario_id": "67dd7de381d9a2923af0407f", "rol": "miembro" },
+    { "grupo_id": "67ddccef81d9a2923af04139", "usuario_id": "67dd7de381d9a2923af04080", "rol": "admin" },
+    { "grupo_id": "67ddccef81d9a2923af0413a", "usuario_id": "67dd7de381d9a2923af04081", "rol": "miembro" },
+    { "grupo_id": "67ddccef81d9a2923af0413b", "usuario_id": "67dd7de381d9a2923af04082", "rol": "miembro" },
+    { "grupo_id": "67ddccef81d9a2923af0413c", "usuario_id": "67dd7de381d9a2923af04083", "rol": "admin" },
+    { "grupo_id": "67ddccef81d9a2923af0413d", "usuario_id": "67dd7de381d9a2923af04084", "rol": "miembro" },
+    { "grupo_id": "67ddccef81d9a2923af0413e", "usuario_id": "67dd7de381d9a2923af04085", "rol": "miembro" },
+    { "grupo_id": "67ddccef81d9a2923af0413f", "usuario_id": "67dd7de381d9a2923af04086", "rol": "admin" },
+    { "grupo_id": "67ddccef81d9a2923af04140", "usuario_id": "67dd7de381d9a2923af04087", "rol": "miembro" },
+    { "grupo_id": "67ddccef81d9a2923af04141", "usuario_id": "67dd7de381d9a2923af04088", "rol": "miembro" },
+    { "grupo_id": "67ddccef81d9a2923af04142", "usuario_id": "67dd7de381d9a2923af04089", "rol": "admin" },
+    { "grupo_id": "67ddccef81d9a2923af04143", "usuario_id": "67dd7de381d9a2923af0408a", "rol": "miembro" },
+    { "grupo_id": "67ddccef81d9a2923af04144", "usuario_id": "67dd7de381d9a2923af0408b", "rol": "miembro" },
+    { "grupo_id": "67ddccef81d9a2923af04145", "usuario_id": "67dd7de381d9a2923af0408c", "rol": "admin" },
+    { "grupo_id": "67ddccef81d9a2923af04146", "usuario_id": "67dd7de381d9a2923af0408d", "rol": "miembro" },
+    { "grupo_id": "67ddccef81d9a2923af04147", "usuario_id": "67dd7de381d9a2923af0408e", "rol": "miembro" },
+    { "grupo_id": "67ddccef81d9a2923af04148", "usuario_id": "67dd7de381d9a2923af0408f", "rol": "admin" },
+    { "grupo_id": "67ddccef81d9a2923af04149", "usuario_id": "67dd7de381d9a2923af04090", "rol": "miembro" }
+]
