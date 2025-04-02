@@ -1,0 +1,2 @@
+# RedSocial
+BASE DE DATOS AVANZADA PROYECTO Red Social
