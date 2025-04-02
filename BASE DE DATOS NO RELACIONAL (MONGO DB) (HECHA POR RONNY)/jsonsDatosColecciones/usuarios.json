@@ -1,0 +1,202 @@
+[
+{
+    "Nombre": "Juan Pérez",
+    "Username": "juanp",
+    "Genero": "Masculino",
+    "Biografia": "Amante del fútbol.",
+    "Correo": "juanp@mail.com",
+    "Contrasena": "9b8769a4a742959a2d0298c36fb70623f2dfacda8436237df08d8dfd5b37374c",
+    "Estado": "activo",
+    "FechaNacimiento": "1995-03-15T00:00:00Z"
+},
+{
+    "Nombre": "María Gómez",
+    "Username": "mariag",
+    "Genero": "Femenino",
+    "Biografia": "Me encanta viajar.",
+    "Correo": "mariag@mail.com",
+    "Contrasena": "1d4598d1949b47f7f211134b639ec32238ce73086a83c2f745713b3f12f817e5",
+    "Estado": "activo",
+    "FechaNacimiento": "1992-07-21T00:00:00Z"
+},
+{
+    "Nombre": "Carlos López",
+    "Username": "carlosl",
+    "Genero": "Masculino",
+    "Biografia": "Cine y tecnología.",
+    "Correo": "carlosl@mail.com",
+    "Contrasena": "9dbd5c893b5b573a1aa909c8cade58df194310e411c590d9fb0d63431841fd67",
+    "Estado": "activo",
+    "FechaNacimiento": "1988-11-03T00:00:00Z"
+},
+{
+    "Nombre": "Ana Torres",
+    "Username": "anatorres",
+    "Genero": "Femenino",
+    "Biografia": "Amante de los libros.",
+    "Correo": "ana@mail.com",
+    "Contrasena": "2bd2a833384945be5a4d05109f418acbc78cc41d7640842f0e881ba892651296",
+    "Estado": "suspendido",
+    "FechaNacimiento": "1999-05-29T00:00:00Z"
+},
+{
+    "Nombre": "Pedro Díaz",
+    "Username": "pedrod",
+    "Genero": "Masculino",
+    "Biografia": "Fotógrafo aficionado.",
+    "Correo": "pedro@mail.com",
+    "Contrasena": "b5cef39c429c739f715624213d975b1b5faca8323f2f0a2efbb98f39c5a44c09",
+    "Estado": "bloqueado",
+    "FechaNacimiento": "1990-12-10T00:00:00Z"
+},
+{
+    "Nombre": "Lucía Fernández",
+    "Username": "luciaf",
+    "Genero": "Femenino",
+    "Biografia": "Música y arte.",
+    "Correo": "lucia@mail.com",
+    "Contrasena": "d924bfbbcca7ada7599a1ef13ac11caf6a732e46306e5310b03c1b6563633bb2",
+    "Estado": "activo",
+    "FechaNacimiento": "2000-06-25T00:00:00Z"
+},
+{
+    "Nombre": "Javier Ortega",
+    "Username": "javiero",
+    "Genero": "Masculino",
+    "Biografia": "Fanático de los videojuegos.",
+    "Correo": "javier@mail.com",
+    "Contrasena": "c189638f276c83dc521375e433c348a81b538359b38ca76b5a17948c21387dac",
+    "Estado": "activo",
+    "FechaNacimiento": "1993-09-08T00:00:00Z"
+},
+{
+    "Nombre": "Sofía Herrera",
+    "Username": "sofiaher",
+    "Genero": "Femenino",
+    "Biografia": "Amante de los animales.",
+    "Correo": "sofia@mail.com",
+    "Contrasena": "67523cdf844c76851a4e8f2e45e68f35faa010f5e7832e24a164c73ebc8a55ff",
+    "Estado": "activo",
+    "FechaNacimiento": "1997-04-14T00:00:00Z"
+},
+{
+    "Nombre": "Andrés Castro",
+    "Username": "andresc",
+    "Genero": "Masculino",
+    "Biografia": "Runner y montañista.",
+    "Correo": "andres@mail.com",
+    "Contrasena": "3f1bd40d7baaec2b7480777267c50e3041671739aefcb2c12d14371b66dc562b",
+    "Estado": "activo",
+    "FechaNacimiento": "1991-01-31T00:00:00Z"
+},
+{
+    "Nombre": "Paula Rojas",
+    "Username": "paular",
+    "Genero": "Femenino",
+    "Biografia": "Cocina y repostería.",
+    "Correo": "paula@mail.com",
+    "Contrasena": "540bb03f8d483b507f46ff1c4fb67f57c00c24fec4b7fe254a157e3ed072b1c6",
+    "Estado": "activo",
+    "FechaNacimiento": "1985-08-20T00:00:00Z"
+},
+{
+    "Nombre": "David Salazar",
+    "Username": "davids",
+    "Genero": "Masculino",
+    "Biografia": "Apasionado por la programación.",
+    "Correo": "david@mail.com",
+    "Contrasena": "148e4d506e85edbde2f56da5e339f89aa68cb6a60082132394bd0956052e5d55",
+    "Estado": "activo",
+    "FechaNacimiento": "1994-12-06T00:00:00Z"
+},
+{
+    "Nombre": "Elena Cruz",
+    "Username": "elenac",
+    "Genero": "Femenino",
+    "Biografia": "Yoga y meditación.",
+    "Correo": "elena@mail.com",
+    "Contrasena": "d8e935eb1eafecd0d66463861b067dfc6e098cca210bcc615a0b71d0939bd662",
+    "Estado": "activo",
+    "FechaNacimiento": "1987-03-11T00:00:00Z"
+},
+{
+    "Nombre": "Sergio Mendoza",
+    "Username": "sergiom",
+    "Genero": "Masculino",
+    "Biografia": "Me gusta el ajedrez.",
+    "Correo": "sergio@mail.com",
+    "Contrasena": "b2c56341cc2b9f8bf898bd7528dd39e641b51c4fbd51f241b46ad70872dd1b99",
+    "Estado": "activo",
+    "FechaNacimiento": "1995-09-17T00:00:00Z"
+},
+{
+    "Nombre": "Camila Duarte",
+    "Username": "camilad",
+    "Genero": "Femenino",
+    "Biografia": "Aprendiendo idiomas.",
+    "Correo": "camila@mail.com",
+    "Contrasena": "0be5449fd7e110e562888c7f6b2ceac607083936e4a8f286fcf9a2d672f73135",
+    "Estado": "activo",
+    "FechaNacimiento": "1998-12-24T00:00:00Z"
+},
+{
+    "Nombre": "Fernando Ruiz",
+    "Username": "fernandor",
+    "Genero": "Masculino",
+    "Biografia": "Aficionado a la astronomía.",
+    "Correo": "fernando@mail.com",
+    "Contrasena": "82cc50ae50f2c39014ef7b995bd1050f2638a836a9e0a123088d670dfd5f2ca8",
+    "Estado": "activo",
+    "FechaNacimiento": "1990-05-30T00:00:00Z"
+},
+{
+    "Nombre": "Gabriela Soto",
+    "Username": "gabrielas",
+    "Genero": "Femenino",
+    "Biografia": "Me encanta la moda.",
+    "Correo": "gabriela@mail.com",
+    "Contrasena": "ae4b6c9d91b55bc6be8ff9b16057c96a72af85a872cf4505bea9a0b6cff2a65f",
+    "Estado": "activo",
+    "FechaNacimiento": "2001-06-18T00:00:00Z"
+},
+{
+    "Nombre": "Roberto Vargas",
+    "Username": "robertov",
+    "Genero": "Masculino",
+    "Biografia": "Músico de corazón.",
+    "Correo": "roberto@mail.com",
+    "Contrasena": "5c892e4e93c63f9da889313ab652cc504d88dad1844cfcef1840968f9d79e65d",
+    "Estado": "activo",
+    "FechaNacimiento": "1986-10-05T00:00:00Z"
+},
+{
+    "Nombre": "Angela Morales",
+    "Username": "angelam",
+    "Genero": "Femenino",
+    "Biografia": "Fanática de la tecnología.",
+    "Correo": "angela@mail.com",
+    "Contrasena": "632fc5e020ce7727544d1e72c85eef818fc3a9cae7de4240e0016fc44c3cc5a8",
+    "Estado": "activo",
+    "FechaNacimiento": "1993-07-08T00:00:00Z"
+},
+{
+    "Nombre": "Cristian López",
+    "Username": "cristianl",
+    "Genero": "Masculino",
+    "Biografia": "Guitarrista y viajero.",
+    "Correo": "cristian@mail.com",
+    "Contrasena": "9a6361043893073e0359c0c3b525d02d29fb63314d646c11015b54953eedfa61",
+    "Estado": "activo",
+    "FechaNacimiento": "1997-11-22T00:00:00Z"
+},
+{
+    "Nombre": "Patricia Ramírez",
+    "Username": "patriciar",
+    "Genero": "Femenino",
+    "Biografia": "Escritora en progreso.",
+    "Correo": "patricia@mail.com",
+    "Contrasena": "d30e0424ac9f6c1c3a7b2dc90d61db4b51e1cce5d171a66153d51fef7441671c",
+    "Estado": "activo",
+    "FechaNacimiento": "1989-08-14T00:00:00Z"
+}
+]
